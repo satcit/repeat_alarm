@@ -1,23 +1,11 @@
 <resources>
     <string name="app_name">Alarm repeater</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_create_edit_alarm">CreateEditAlarm</string>
 
     <!--general-->
-    <string name="save">Save</string>
-    <string name="cancel">Cancel</string>
-    <string name="ok">OK</string>
     <string name="start">Start</string>
     <string name="stop">Stop</string>
-    <string name="seconds">Seconds</string>
-    <string name="minutes">Minutes</string>
 
-    <!--actions-->
-    <string name="action.alarm.create">Create</string>
-    <string name="action.alarm.edit">Edit</string>
-    <string name="action.alarm.delete">Delete</string>
-
-    <string name="alarmDuration">Duration</string>
-    <string name="alarmRepeatDuration">Repeat after</string>
+    <string name="repeatDuration">Within </string>
+    <string name="repeatRate">Repeat each </string>
+    <string name="restDuration">Pause each </string>
 </resources>
